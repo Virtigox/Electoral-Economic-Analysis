@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,13 +206,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a95e35110aa3bdb4",
+  "active": "70257332e7a66f76",
   "lastOpenFiles": [
+    "Project Tracking.md",
     "economic_data_processing_1998-2023.ipynb",
     "Processed_Economic_Data.csv",
     "Economics Indicator.md",
     "Aligned_Normalized_Economic_Data.csv",
-    "Project Tracking.md",
     "Electoral Analysis.md",
     "Pandas Documentation.md",
     "analysis_process.py",
@@ -221,7 +221,6 @@
     "state_gdp_data.csv",
     "eight_electoral_result_data.csv",
     "filtered_gdp_data.csv",
-    "electoral_result_data.csv",
-    "1976-2020-president.csv"
+    "electoral_result_data.csv"
   ]
 }
