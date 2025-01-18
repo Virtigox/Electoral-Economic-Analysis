@@ -5,6 +5,8 @@
 >- I have to make sure how to treat 1 cycle of administration, and the economic growth between that.
 >- Make a proper time frame and calculate again for proper duration or 4 year adminstration.
 - [ ] Process Data
+>- Think about whether adding other parties is appropriate for the model or not
+>- Make it more simple 
 - [ ] Merge Data
 - [ ] Correlate Data
 - [ ] Visualize Data
