@@ -9,6 +9,8 @@
 >- Make it more simple 
 - [ ] Merge Data
 >- Two datasets don't have same dimension of the table; therefore, there should be more formatting before merge them into proper table.
+->- The best way is to separate each economic indicator to individual tables, and merge them with electoral result. Therefore, there will be different tables specializing in different economic growth indicator.
+->- Then I can clearly see the trend of each economic indicator reflecting on electoral result.
 - [ ] Correlate Data
 - [ ] Visualize Data
 - [ ] Talk a story upon Data
