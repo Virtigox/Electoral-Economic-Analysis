@@ -12,6 +12,10 @@
 >- The best way is to separate each economic indicator to individual tables, and merge them with electoral result. Therefore, there will be different tables specializing in different economic growth indicator.
 >- Fix the duplicated datasets, and validate the merged_data 
 >- Then I can clearly see the trend of each economic indicator reflecting on electoral result.
+>- After solving that, For example, the result of economic indicator from term 2009-2013 will be resulted or correlate the electoral result in 2012.
+>- Before solving this correlation problem, check economic data, whether I include the complete data of 2013(which the economic result of 2013 to 2014).
+>- Then I am good to segment each term of electoral result with each term of presidental cycle for specific economic indicator
+>   - Example: 2012 electoral result is correlated from 2009-2013 economic indicator of realGDP.
 - [ ] Correlate Data
 - [ ] Visualize Data
 - [ ] Talk a story upon Data
