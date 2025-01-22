@@ -1,21 +1,32 @@
+# Project Tracking
 
 - [x] Clean Data
->- After processing Economic Data, electoral result in each states would be determined.
->- Read the electoral result data, try to understand the format, and data points of under each row.
->- I have to make sure how to treat 1 cycle of administration, and the economic growth between that.
->- Make a proper time frame and calculate again for proper duration or 4 year administration.
+> - Economic Data Analysis
+> - Understand the electoral result format and its relationship with state data.
+> - Confirm treatment of one administration cycle (4 years) and account for economic growth across this period.
+> - Create and verify a proper timeframe for analysis.
 - [x] Process Data
->- Think about whether adding other parties is appropriate for the model or not
->- Make it more simple 
+> - Simplify Model Inputs for both of the datasets
+> - Evaluate the impact of including additional political parties in the model.
+> - Simplify the process by focusing only on relevant and impactful variables.
 - [ ] Merge Data
->- Two datasets don't have same dimension of the table; therefore, there should be more formatting before merge them into proper table.
->- The best way is to separate each economic indicator to individual tables, and merge them with electoral result. Therefore, there will be different tables specializing in different economic growth indicator.
->- Fix the duplicated datasets, and validate the merged_data 
->- Then I can clearly see the trend of each economic indicator reflecting on electoral result.
->- After solving that, For example, the result of economic indicator from term 2009-2013 will be resulted or correlate the electoral result in 2012.
->- Before solving this correlation problem, check economic data, whether I include the complete data of 2013(which the economic result of 2013 to 2014).
->- Then I am good to segment each term of electoral result with each term of presidental cycle for specific economic indicator
->   - Example: 2012 electoral result is correlated from 2009-2013 economic indicator of realGDP.
+> - Data Preparation
+>    - Address dimensional inconsistencies in datasets by reformatting tables.
+>    - Isolate economic indicators into individual tables and merge them with electoral results for clarity.
+> - Validate and Fix Data
+> - Identify and resolve duplicate datasets.
+>    - Ensure completeness for terms (e.g., economic data for 2013-2014 is accurately captured for the 2009-2013 administration).
+> - Correlation Setup
+>     - Correlate electoral results with the corresponding economic indicators for the previous presidential term.
+>        - Example: Link 2012 electoral results to 2009-2013 economic indicators (e.g., Real GDP).
+>     - Verify all necessary economic data is included before segmentation.
 - [ ] Correlate Data
+> - Establish relationships between economic indicators and electoral outcomes for each presidential term.
+> - Use statistical methods (e.g., regression, Pearson correlation) to quantify the impact of each indicator.
+> - It can just be correlation or causation.
 - [ ] Visualize Data
-- [ ] Talk a story upon Data
+> - Create compelling visuals to represent correlations and trends (e.g., bar graphs, line charts, scatter plots).
+> - Ensure visuals highlight key insights while remaining accessible to a broad audience.
+- [ ] Present the Story
+> - Polish the analysis and visuals for public display in the repository.
+> - Draft a narrative that ties together your findings, explaining the significance of trends and correlations.

@@ -37,7 +37,7 @@ url {https://www.bea.gov/}
 
 Investigate the relationship between a state's economic growth (measured via GDP, employment, etc.) and its voting behavior in presidential elections.
 
-### **3. Data Preparation**
+### **3. Data Preparation**M
 
 #### **Data Cleaning**
 
