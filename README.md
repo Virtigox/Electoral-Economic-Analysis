@@ -23,7 +23,7 @@ Title: State Annual Summary Statistics: Personal Income, GDP, Consumer Spending,
 Year: 2023
 URL: https://www.bea.gov/
 ```
-1. **Overview of the Datasets**
+# Overview of the Datasets
 
 _BEA State Annual Summary Statistics_:
 
@@ -41,7 +41,7 @@ This dataset captures detailed state-by-state voting results for presidential el
 2. Vote percentages
 3. Winning candidates
 
-2. **Project Objective**
+# Project Objective
 
 The goal of this project is to investigate the relationship between a state's economic growth and its voting behavior during presidential elections. Specifically:
 
