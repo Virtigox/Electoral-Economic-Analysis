@@ -9,7 +9,7 @@
 > - Simplify Model Inputs for both of the datasets
 > - Evaluate the impact of including additional political parties in the model.
 > - Simplify the process by focusing only on relevant and impactful variables.
-- [ ] Merge Data
+- [X] Merge Data
 > - Data Preparation
 >    - Address dimensional inconsistencies in datasets by reformatting tables.
 >    - Isolate economic indicators into individual tables and merge them with electoral results for clarity.
