@@ -24,7 +24,7 @@
 > - Establish relationships between economic indicators and electoral outcomes for each presidential term.
 > - Use statistical methods (e.g., regression, Pearson correlation) to quantify the impact of each indicator.
 > - It can just be correlation or causation.
-- [ ] Visualize Data
+- [X] Visualize Data
 > - Create compelling visuals to represent correlations and trends (e.g., bar graphs, line charts, scatter plots).
 > - Ensure visuals highlight key insights while remaining accessible to a broad audience.
 - [ ] Present the Story
