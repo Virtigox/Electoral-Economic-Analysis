@@ -73,3 +73,4 @@ The goal of this project is to investigate the relationship between a state's ec
 2. Republican Party
 > This visualization provides insights into the relationship between economic performance and electoral trends in different states.
 
+![alt text](data_image/51_states_economic_electoral_visualization.png)
