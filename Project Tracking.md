@@ -27,6 +27,9 @@
 - [X] Visualize Data
 > - Create compelling visuals to represent correlations and trends (e.g., bar graphs, line charts, scatter plots).
 > - Ensure visuals highlight key insights while remaining accessible to a broad audience.
+> - Validate the each visualization of the data
+> - Improve on Clarity of showcasing
+> - Add overall United State's economic indication & electoral result.
 - [ ] Present the Story
 > - Polish the analysis and visuals for public display in the repository.
 > - Draft a narrative that ties together your findings, explaining the significance of trends and correlations.
