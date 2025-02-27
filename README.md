@@ -70,10 +70,9 @@ The goal of this project is to investigate the relationship between a state's ec
 
 > Each data point is associated with the corresponding U.S. president during the given period.
 
-**Right Graph: Electoral Outcomes**
-> The right graph visualizes election results, showing the winning and losing rates of candidates from the two major political parties:
+**Right Graph: Popular Vote Outcomes**
+The right graph visualizes vote results, showing the vote share received by candidates from the two major political parties:
 1. Democratic Party
 2. Republican Party
-> This visualization provides insights into the relationship between economic performance and electoral trends in different states.
-
-![alt text](data_image/51_states_economic_electoral_visualization.png)
+This visualization provides insights into the relationship between economic performance and voting trends across different states.
+![alt text](/workspaces/Electoral-Economic-Analysis/data_image)
