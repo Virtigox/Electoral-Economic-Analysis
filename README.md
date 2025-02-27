@@ -78,6 +78,6 @@ This visualization provides insights into the relationship between economic perf
  
 **UNITED STATES**  
 ![united states](data_image/UNITED%20STATES_economic_and_electoral_analysis.png)
-Visualization of each states including District of Columbia will be presented at ![VISUAL_ANALYSIS.md](/workspaces/Electoral-Economic-Analysis/VISUAL_ANALYSIS.md)
+Visualization of each states including District of Columbia will be presented at ![VISUAL_ANALYSIS.md](VISUAL_ANALYSIS.md)
 
 
