@@ -1,4 +1,5 @@
 state,Indicator,Term,President,cycle_duration,Overall Growth (%),Average Growth (%),year,Office,Winning Candidate,Winning Party,Winning Percentage,Losing Candidate,Losing Party,Losing Percentage
+UNITED STATES,Real Personal Income,Obama 2,Barack Obama,2013-2017,13.46,3.21,2016,US PRESIDENT,"CLINTON, HILLARY",DEMOCRAT,46.21,"TRUMP, DONALD J.",REPUBLICAN,44.92
 ALABAMA,Real Personal Income,Obama 2,Barack Obama,2013-2017,9.48,2.3,2016,US PRESIDENT,"TRUMP, DONALD J.",REPUBLICAN,62.08,"CLINTON, HILLARY",DEMOCRAT,34.36
 ALASKA,Real Personal Income,Obama 2,Barack Obama,2013-2017,1.46,0.4,2016,US PRESIDENT,"TRUMP, DONALD J.",REPUBLICAN,51.28,"CLINTON, HILLARY",DEMOCRAT,36.55
 ARIZONA,Real Personal Income,Obama 2,Barack Obama,2013-2017,18.42,4.32,2016,US PRESIDENT,"TRUMP, DONALD J.",REPUBLICAN,48.67,,DEMOCRAT,0.0

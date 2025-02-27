@@ -1,4 +1,5 @@
 state,Indicator,Term,President,cycle_duration,Overall Growth (%),Average Growth (%),year,Office,Winning Candidate,Winning Party,Winning Percentage,Losing Candidate,Losing Party,Losing Percentage
+UNITED STATES,Real Per Capita Personal Income,Obama 1,Barack Obama,2009-2013,4.87,1.2,2012,US PRESIDENT,"OBAMA, BARACK H.",DEMOCRAT,50.87,"ROMNEY, MITT",REPUBLICAN,46.98
 ALABAMA,Real Per Capita Personal Income,Obama 1,Barack Obama,2009-2013,-1.52,-0.38,2012,US PRESIDENT,"ROMNEY, MITT",REPUBLICAN,60.55,"OBAMA, BARACK H.",DEMOCRAT,38.36
 ALASKA,Real Per Capita Personal Income,Obama 1,Barack Obama,2009-2013,6.92,1.74,2012,US PRESIDENT,"ROMNEY, MITT",REPUBLICAN,54.8,"OBAMA, BARACK H.",DEMOCRAT,40.81
 ARIZONA,Real Per Capita Personal Income,Obama 1,Barack Obama,2009-2013,6.9,1.69,2012,US PRESIDENT,"ROMNEY, MITT",REPUBLICAN,53.65,"OBAMA, BARACK H.",DEMOCRAT,44.59

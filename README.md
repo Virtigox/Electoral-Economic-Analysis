@@ -1,5 +1,8 @@
 # Electoral-Economic Analysis
 > A data analysis project exploring the correlation between electoral results and economic growth at both the state and national levels.
+## NOTE
+> This election analysis is based solely on the popular vote—the total number of votes each candidate received—rather than the Electoral College results. As a result, there may be cases, such as the 2016 election, where a candidate like Hillary Clinton received more popular votes than Donald Trump but still lost due to the Electoral College outcome. While this study is called an "electoral-economic analysis," it focuses on the relationship between popular vote totals and economic indicators across states. The name may be slightly misleading, but the analysis does not take Electoral College outcomes into account.
+> The U.S. President is elected through the Electoral College rather than the popular vote, as established in the Constitution to balance power between states. While the popular vote reflects the total number of ballots cast nationwide, the Electoral College consists of 538 electors allocated based on congressional representation. A candidate must secure at least 270 electoral votes to win. This system is considered legitimate because it reinforces federalism, ensures smaller states have a voice, and encourages candidates to build broad, nationwide coalitions rather than focusing solely on populous areas.
 
 # Cited Datasets
 ```

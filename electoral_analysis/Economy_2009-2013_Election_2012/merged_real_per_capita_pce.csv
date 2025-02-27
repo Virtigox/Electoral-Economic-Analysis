@@ -1,4 +1,5 @@
 state,Indicator,Term,President,cycle_duration,Overall Growth (%),Average Growth (%),year,Office,Winning Candidate,Winning Party,Winning Percentage,Losing Candidate,Losing Party,Losing Percentage
+UNITED STATES,Real Per Capita PCE,Obama 1,Barack Obama,2009-2013,3.53,0.87,2012,US PRESIDENT,"OBAMA, BARACK H.",DEMOCRAT,50.87,"ROMNEY, MITT",REPUBLICAN,46.98
 ALABAMA,Real Per Capita PCE,Obama 1,Barack Obama,2009-2013,-0.96,-0.24,2012,US PRESIDENT,"ROMNEY, MITT",REPUBLICAN,60.55,"OBAMA, BARACK H.",DEMOCRAT,38.36
 ALASKA,Real Per Capita PCE,Obama 1,Barack Obama,2009-2013,6.66,1.63,2012,US PRESIDENT,"ROMNEY, MITT",REPUBLICAN,54.8,"OBAMA, BARACK H.",DEMOCRAT,40.81
 ARIZONA,Real Per Capita PCE,Obama 1,Barack Obama,2009-2013,6.52,1.59,2012,US PRESIDENT,"ROMNEY, MITT",REPUBLICAN,53.65,"OBAMA, BARACK H.",DEMOCRAT,44.59
