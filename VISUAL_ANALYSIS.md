@@ -170,7 +170,39 @@
 
 ![Tennessee](data_image/TENNESSEE_economic_and_electoral_analysis.png)
 
+## Texas
+
+![Texas](data_image/TEXAS_economic_and_electoral_analysis.png)
+
 ## United States
 
 ![United States](data_image/UNITED%20STATES_economic_and_electoral_analysis.png)
+
+## Utah
+
+![Utah](data_image/UTAH_economic_and_electoral_analysis.png)
+
+## Vermont
+
+![Vermont](data_image/VERMONT_economic_and_electoral_analysis.png)
+
+## Virginia
+
+![Virginia](data_image/VIRGINIA_economic_and_electoral_analysis.png)
+
+## Washington
+
+![Washington](data_image/WASHINGTON_economic_and_electoral_analysis.png)
+
+## West Virginia
+
+![West Virginia](data_image/WEST%20VIRGINIA_economic_and_electoral_analysis.png)
+
+## Wisconsin
+
+![Wisconsin](data_image/WISCONSIN_economic_and_electoral_analysis.png)
+
+## Wyoming
+
+![Wyoming](data_image/WYOMING_economic_and_electoral_analysis.png)
 
