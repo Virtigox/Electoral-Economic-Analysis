@@ -77,6 +77,6 @@ The right graph visualizes vote results, showing the vote share received by cand
 This visualization provides insights into the relationship between economic performance and voting trends across different states.
  
 **UNITED STATES**  
-![united states](/workspaces/Electoral-Economic-Analysis/data_image/UNITED%20STATES_economic_and_electoral_analysis.png)
+![united states](data_image/UNITED%20STATES_economic_and_electoral_analysis.png)
 
 
